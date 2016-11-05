@@ -1,0 +1,15 @@
+{
+  "name": "simple-twitter-bot",
+  "version": "0.0.3",
+  "description": "Ignore Me!!!",
+  "main": "simple-twitter-bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "stigg1",
+  "license": "CCO",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "twitter": "^1.4.0"
+  }
+}
